@@ -1,0 +1,2 @@
+# LearningBot
+Discord Bot
